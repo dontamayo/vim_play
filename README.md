@@ -1,3 +1,6 @@
 ## practicing vim
 
-1. Don Aldrich Tamayo
+
+**David Nyman**
+kyle.t
+Don Aldrich Tamayo
